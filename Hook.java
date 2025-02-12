@@ -41,6 +41,8 @@ public class Hook extends Base {
 		}
 	}
 
+	hiding
+
 	public static String timestamp() {
 	    return new SimpleDateFormat("yyyy-MM-dd HH-mm-ss").format(new Date());
 	} 
